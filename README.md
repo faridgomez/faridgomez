@@ -1,4 +1,8 @@
 [![MasterHead](https://i.ibb.co/35Tkygk0/Generated-File-May282025-9-11-PM-ezgif-com-video-to-gif-converter.gif)](https://github.com/faridgomez)
+<p  align="center">
+  <img src="https://i.ibb.co/35Tkygk0/Generated-File-May282025-9-11-PM-ezgif-com-video-to-gif-converter.gif">             
+  <br>
+
 
 <p  align="center">
   <img src="user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
