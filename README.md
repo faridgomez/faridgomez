@@ -1,7 +1,4 @@
-[![MasterHead](https://i.ibb.co/35Tkygk0/Generated-File-May282025-9-11-PM-ezgif-com-video-to-gif-converter.gif)](https://github.com/faridgomez)
-<p  align="center">
-  <img src="https://i.ibb.co/35Tkygk0/Generated-File-May282025-9-11-PM-ezgif-com-video-to-gif-converter.gif">             
-  <br>
+[![MasterHead](https://i.ibb.co/rR9xMBnc/ezgif-com-video-to-gif-converter.gif)](https://github.com/faridgomez)
 
 
 <p  align="center">
